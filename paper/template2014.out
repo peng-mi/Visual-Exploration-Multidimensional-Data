@@ -1,0 +1,24 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Related Work}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{VA Systems and Data Processing }{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Visualization and Interaction}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Parallel Computing}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Design Analysis}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Data Processing}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Visualization and Interaction}{section.3}% 8
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Visualization}{subsection.3.2}% 9
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Animation and Interaction}{subsection.3.2}% 10
+\BOOKMARK [2][-]{subsection.3.3}{Parallel Computing}{section.3}% 11
+\BOOKMARK [1][-]{section.4}{GPU based In-Situ Visualization Architecture}{}% 12
+\BOOKMARK [1][-]{section.5}{Visualization and Interaction in AVIST}{}% 13
+\BOOKMARK [2][-]{subsection.5.1}{Visualizations and Interactions}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.2}{Data Dependency Graph}{section.5}% 15
+\BOOKMARK [1][-]{section.6}{Implementation}{}% 16
+\BOOKMARK [2][-]{subsection.6.1}{Filtering on the GPU}{section.6}% 17
+\BOOKMARK [2][-]{subsection.6.2}{Data View on the GPU}{section.6}% 18
+\BOOKMARK [2][-]{subsection.6.3}{Performance Analysis}{section.6}% 19
+\BOOKMARK [1][-]{section.7}{User Cases}{}% 20
+\BOOKMARK [2][-]{subsection.7.1}{Network Flow Analysis}{section.7}% 21
+\BOOKMARK [2][-]{subsection.7.2}{International Trade Analysis}{section.7}% 22
+\BOOKMARK [1][-]{section.8}{Discussion And Limitations}{}% 23
+\BOOKMARK [1][-]{section.9}{Conclusions And Future Work}{}% 24

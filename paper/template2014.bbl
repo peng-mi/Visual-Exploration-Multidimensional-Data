@@ -1,0 +1,213 @@
+\begin{thebibliography}{10}
+
+\bibitem{jmp}
+Jmp software http://www.jmp.com/.
+
+\bibitem{qlikview}
+Qlikview software http://www.qlik.com/.
+
+\bibitem{spotfire}
+Spotfire software http://spotfire.tibco.com/.
+
+\bibitem{tab}
+Tableau software http://www.tableau.com/.
+
+\bibitem{Agarwal}
+S.~Agarwal, B.~Mozafari, A.~Panda, H.~Milner, S.~Madden, and I.~Stoica.
+\newblock Blinkdb: Queries with bounded errors and bounded response times on
+  very large data.
+\newblock In {\em Proceedings of the 8th ACM European Conference on Computer
+  Systems}, EuroSys '13, pages 29--42, New York, NY, USA, 2013. ACM.
+
+\bibitem{battle2013dynamic}
+L.~Battle, M.~Stonebraker, and R.~Chang.
+\newblock Dynamic reduction of query result sets for interactive visualizaton.
+\newblock In {\em Big Data, 2013 IEEE International Conference on}, pages 1--8.
+  IEEE, 2013.
+
+\bibitem{Boncz05monetdb}
+P.~Boncz, M.~Zukowski, and N.~Nes.
+\newblock Monetdb/x100: Hyper-pipelining query execution.
+\newblock In {\em In CIDR}, 2005.
+
+\bibitem{chen2014visual}
+H.~Chen, W.~Chen, H.~Mei, Z.~Liu, K.~Zhou, W.~Chen, W.~Gu, and K.-L. Ma.
+\newblock Visual abstraction and exploration of multi-class scatterplots.
+\newblock {\em IEEE Transactions on Visualization \& Computer Graphics},
+  20(12), 2014.
+
+\bibitem{Chen:2012}
+Y.~Chen, S.~Alspaugh, and R.~Katz.
+\newblock Interactive analytical processing in big data systems: A
+  cross-industry study of mapreduce workloads.
+\newblock {\em Proc. VLDB Endow.}, 5(12):1802--1813, Aug. 2012.
+
+\bibitem{Ellis2007}
+G.~Ellis and A.~Dix.
+\newblock {A taxonomy of clutter reduction for information visualisation}.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  13(6):1216--1223, 2007.
+
+\bibitem{elmqvist2008rolling}
+N.~Elmqvist, P.~Dragicevic, and J.-D. Fekete.
+\newblock Rolling the dice: Multidimensional visual exploration using
+  scatterplot matrix navigation.
+\newblock {\em Visualization and Computer Graphics, IEEE Transactions on},
+  14(6):1539--1148, 2008.
+
+\bibitem{farber2012sap}
+F.~F{\"a}rber, N.~May, W.~Lehner, P.~Gro{\ss}e, I.~M{\"u}ller, H.~Rauhe, and
+  J.~Dees.
+\newblock The sap hana database--an architecture overview.
+\newblock {\em IEEE Data Eng. Bull.}, 35(1):28--33, 2012.
+
+\bibitem{Fekete2013}
+J.~D. Fekete.
+\newblock {Visual analytics infrastructures: From data management to
+  exploration}.
+\newblock {\em Computer}, 46(7):22--29, 2013.
+
+\bibitem{Fekete:2002}
+J.-D. Fekete and C.~Plaisant.
+\newblock Interactive information visualization of a million items.
+\newblock In {\em Proceedings of the IEEE Symposium on Information
+  Visualization (InfoVis'02)}, INFOVIS '02, pages 117--, Washington, DC, USA,
+  2002. IEEE Computer Society.
+
+\bibitem{Fisher2012}
+D.~Fisher, S.~M. Drucker, and A.~C. K\"{o}nig.
+\newblock {Exploratory visualization involving incremental, approximate
+  database queries and uncertainty}.
+\newblock {\em IEEE Computer Graphics and Applications}, 32(4):55--62, 2012.
+
+\bibitem{FisherCHI2012}
+D.~Fisher, I.~Popov, S.~Drucker, and m.~schraefel.
+\newblock Trust me, i'm partially right: Incremental visualization lets
+  analysts explore large datasets faster.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '12, pages 1673--1682, New York, NY, USA, 2012. ACM.
+
+\bibitem{herodotou}
+H.~Herodotou, H.~Lim, G.~Luo, N.~Borisov, L.~Dong, F.~B. Cetin, and S.~Babu.
+\newblock Starfish: A self-tuning system for big data analytics.
+\newblock In {\em CIDR}, volume~11, pages 261--272, 2011.
+
+\bibitem{im2013visreduce}
+J.-F. Im, F.~G. Villegas, and M.~McGuffln.
+\newblock Visreduce: Fast and responsive incremental information visualization
+  of large datasets.
+\newblock In {\em Big Data, 2013 IEEE International Conference on}, pages
+  25--32. IEEE, 2013.
+
+\bibitem{jugel2014m4}
+U.~Jugel, Z.~Jerzak, G.~Hackenbroich, and V.~Markl.
+\newblock M4: A visualization-oriented time series data aggregation.
+\newblock {\em Proceedings of the VLDB Endowment}, 7(10):797--808, 2014.
+
+\bibitem{Kallman:2008}
+R.~Kallman, H.~Kimura, J.~Natkins, A.~Pavlo, A.~Rasin, S.~Zdonik, E.~P.~C.
+  Jones, S.~Madden, M.~Stonebraker, Y.~Zhang, J.~Hugg, and D.~J. Abadi.
+\newblock H-store: A high-performance, distributed main memory transaction
+  processing system.
+\newblock {\em Proc. VLDB Endow.}, 1(2):1496--1499, Aug. 2008.
+
+\bibitem{Lins2013}
+L.~Lins, J.~T. Klosowski, and C.~Scheidegger.
+\newblock {Nanocubes for real-time exploration of spatiotemporal datasets}.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  19(12):2456--2465, 2013.
+
+\bibitem{2013-immens}
+Z.~Liu, B.~Jiang, and J.~Heer.
+\newblock immens: Real-time visual querying of big data.
+\newblock {\em Computer Graphics Forum (Proc. EuroVis)}, 32, 2013.
+
+\bibitem{ma2007situ}
+K.-L. Ma, C.~Wang, H.~Yu, and A.~Tikhonova.
+\newblock In-situ processing and visualization for ultrascale simulations.
+\newblock In {\em Journal of Physics: Conference Series}, volume~78, page
+  012043. IOP Publishing, 2007.
+
+\bibitem{melnik2010dremel}
+S.~Melnik, A.~Gubarev, J.~J. Long, G.~Romer, S.~Shivakumar, M.~Tolton, and
+  T.~Vassilakis.
+\newblock Dremel: interactive analysis of web-scale datasets.
+\newblock {\em Proceedings of the VLDB Endowment}, 3(1-2):330--339, 2010.
+
+\bibitem{morton2014support}
+K.~Morton, M.~Balazinska, D.~Grossman, and J.~Mackinlay.
+\newblock Support the data enthusiast: Challenges for next-generation
+  data-analysis systems.
+\newblock {\em Proceedings of the VLDB Endowment}, 7(6), 2014.
+
+\bibitem{roberts2007state}
+J.~C. Roberts.
+\newblock State of the art: Coordinated \& multiple views in exploratory
+  visualization.
+\newblock In {\em Coordinated and Multiple Views in Exploratory Visualization,
+  2007. CMV'07. Fifth International Conference on}, pages 61--71. IEEE, 2007.
+
+\bibitem{schroeck2012analytics}
+M.~Schroeck, R.~Shockley, J.~Smart, D.~Romero-Morales, and P.~Tufano.
+\newblock Analytics: The real-world use of big data.
+\newblock {\em IBM Institute for Business Value—executive report, IBM
+  Institute for Business Value}, 2012.
+
+\bibitem{Stolper2014}
+C.~Stolper, A.~Perer, and D.~Gotz.
+\newblock {Progressive Visual Analytics: User-Driven Visual Exploration of
+  In-Progress Analytics}, 2014.
+
+\bibitem{stolte2002polaris}
+C.~Stolte, D.~Tang, and P.~Hanrahan.
+\newblock Polaris: A system for query, analysis, and visualization of
+  multidimensional relational databases.
+\newblock {\em Visualization and Computer Graphics, IEEE Transactions on},
+  8(1):52--65, 2002.
+
+\bibitem{Thomas2005}
+J.~J. Thomas and K.~A. Cook.
+\newblock {\em {Illuminating the path: The research and development agenda for
+  visual analytics}}, volume~54.
+\newblock IEEE, 2005.
+
+\bibitem{weaver2010cross}
+C.~Weaver.
+\newblock Cross-filtered views for multidimensional visual analysis.
+\newblock {\em Visualization and Computer Graphics, IEEE Transactions on},
+  16(2):192--204, 2010.
+
+\bibitem{Wesley}
+R.~Wesley, M.~Eldridge, and P.~T. Terlecki.
+\newblock An analytic data engine for visualization in tableau.
+\newblock In {\em Proceedings of the 2011 ACM SIGMOD International Conference
+  on Management of Data}, SIGMOD '11, pages 1185--1194, New York, NY, USA,
+  2011. ACM.
+
+\bibitem{wong2012top}
+P.~C. Wong, H.-W. Shen, C.~R. Johnson, C.~Chen, and R.~B. Ross.
+\newblock The top 10 challenges in extreme-scale visual analytics.
+\newblock {\em IEEE computer graphics and applications}, 32(4):63, 2012.
+
+\bibitem{Zhang2012}
+L.~Zhang, A.~Stoffel, M.~Behrisch, S.~Mittelst\"{a}dt, T.~Schreck, R.~Pompl,
+  S.~Weber, H.~Last, and D.~Keim.
+\newblock {Visual analytics for the big data era A comparative review of
+  state-of-the-art commercial systems}.
+\newblock In {\em IEEE Conference on Visual Analytics Science and Technology
+  2012, VAST 2012 - Proceedings}, pages 173--182, 2012.
+
+\bibitem{zhao2013interactive}
+J.~Zhao, C.~Collins, F.~Chevalier, and R.~Balakrishnan.
+\newblock Interactive exploration of implicit and explicit relations in faceted
+  datasets.
+\newblock {\em Visualization and Computer Graphics, IEEE Transactions on},
+  19(12):2080--2089, 2013.
+
+\bibitem{zinsmaier}
+M.~Zinsmaier, U.~Brandes, O.~Deussen, and H.~Strobelt.
+\newblock Interactive level-of-detail rendering of large graphs.
+\newblock {\em Visualization and Computer Graphics, IEEE Transactions on},
+  18(12):2486--2495, 2012.
+
+\end{thebibliography}
