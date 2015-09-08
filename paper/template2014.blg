@@ -1,4 +1,6 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: template2014.aux
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: template2014.aux
 The style file: abbrv.bst
 Database file #1: template.bib
 Warning--to sort, need author or key in tab
@@ -20,4 +22,45 @@ Warning--empty year in tab
 Warning--can't use both volume and number fields in ma2007situ
 Warning--can't use both author and editor fields in Thomas2005
 Warning--can't use both volume and number fields in Thomas2005
+You've used 36 entries,
+            2118 wiz_defined-function locations,
+            707 strings with 10495 characters,
+and the built_in function-call counts, 13892 in all, are:
+= -- 1364
+> -- 727
+< -- 13
++ -- 291
+- -- 252
+* -- 1086
+:= -- 2229
+add.period$ -- 107
+call.type$ -- 36
+change.case$ -- 233
+chr.to.int$ -- 0
+cite$ -- 55
+duplicate$ -- 507
+empty$ -- 1014
+format.name$ -- 252
+if$ -- 2899
+int.to.chr$ -- 0
+int.to.str$ -- 36
+missing$ -- 36
+newline$ -- 174
+num.names$ -- 64
+pop$ -- 244
+preamble$ -- 1
+purify$ -- 198
+quote$ -- 0
+skip$ -- 370
+stack$ -- 0
+substring$ -- 849
+swap$ -- 133
+text.length$ -- 13
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 142
+warning$ -- 19
+while$ -- 123
+width$ -- 38
+write$ -- 387
 (There were 19 warnings)

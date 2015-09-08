@@ -30,17 +30,16 @@ P.~Boncz, M.~Zukowski, and N.~Nes.
 \newblock Monetdb/x100: Hyper-pipelining query execution.
 \newblock In {\em In CIDR}, 2005.
 
-\bibitem{chen2014visual}
-H.~Chen, W.~Chen, H.~Mei, Z.~Liu, K.~Zhou, W.~Chen, W.~Gu, and K.-L. Ma.
-\newblock Visual abstraction and exploration of multi-class scatterplots.
-\newblock {\em IEEE Transactions on Visualization \& Computer Graphics},
-  20(12), 2014.
-
 \bibitem{Chen:2012}
 Y.~Chen, S.~Alspaugh, and R.~Katz.
 \newblock Interactive analytical processing in big data systems: A
   cross-industry study of mapreduce workloads.
 \newblock {\em Proc. VLDB Endow.}, 5(12):1802--1813, Aug. 2012.
+
+\bibitem{Dean2008}
+J.~Dean and S.~Ghemawat.
+\newblock Mapreduce: Simplified data processing on large clusters.
+\newblock {\em Commun. ACM}, 51(1):107--113, Jan. 2008.
 
 \bibitem{Ellis2007}
 G.~Ellis and A.~Dix.
